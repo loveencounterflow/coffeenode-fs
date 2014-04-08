@@ -1,0 +1,26 @@
+{
+  "name": "coffeenode-fs",
+  "version": "0.1.1",
+  "description": "Filesystem routines, akin to NodeJS 'fs'",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "node ./lib/tests.js"
+  },
+  "keywords": [
+    "filesystem"
+  ],
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "coffee-script": "~1.7.x"
+    },
+  "dependencies": {
+    "coffeenode-trm": "~0.1.x",
+    "coffeenode-types": "~0.1.x",
+    "line-by-line": "~0.1.x",
+    "coffeenode-text": "~0.1.x",
+    "line-reader": "~0.2.x"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "coffeenode-fs@0.1.0"
+}
